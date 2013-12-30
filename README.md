@@ -8,7 +8,7 @@ Faba Mono Icons are distributed under the terms of the GNU GPL v.3
 
 ###Getting the Source
 
-The source for Faba Mono Dark can be found [here](https://github.com/snwh/faba-mono-icons).
+The source for Faba Mono Icons can be found [here](https://github.com/snwh/faba-mono-icons).
 
 Alternatively, you can clone the latest version its git repository:
 

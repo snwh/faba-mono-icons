@@ -4,6 +4,5 @@
 	dh $@ 
 
 override_dh_auto_install:
-    --sourcedir=Faba-Dark
-    --sourcedir=Faba-Light
+    --sourcedir=Faba-Dark,Faba-Light
 
