@@ -12,7 +12,7 @@ The source for Faba Mono Dark can be found [here](https://github.com/snwh/faba-m
 
 Alternatively, you can clone the latest version its git repository:
 
-    git clone https://github.com/snwh/faba-mono-dark.git
+    git clone https://github.com/snwh/faba-mono-icons.git
 
 ###Using the Source
 
