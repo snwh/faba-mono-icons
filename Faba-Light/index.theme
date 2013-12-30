@@ -2,7 +2,7 @@
 Name=Faba-Light
 Comment=Light panel icons for Faba icon theme.
 Example=folder
-Inherits=Faba
+Inherits=Faba,Moka,gnome
 
 # KDE Specific Stuff
 DisplayDepth=32
