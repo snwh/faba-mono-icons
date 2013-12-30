@@ -14,8 +14,8 @@ quick.sh
 
 generate-symlinks-dark.sh
 generate-symlinks-light.sh
-trim-tray-icons-dark.sh
-trim-tray-icons-light.sh
+trim-dark-tray-icons.sh
+trim-light-tray-icons.sh
 colour-replace.py
 
 faba-mono-icons .zip
