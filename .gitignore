@@ -1,0 +1,21 @@
+*~
+*.bak
+*.orig
+
+debian/files
+debian/faba-mono-icons .debhelper.log
+debian/faba-mono-icons .postinst.debhelper
+debian/faba-mono-icons .postrm.debhelper
+debian/faba-mono-icons .prerm.debhelper
+debian/faba-mono-icons .substvars
+debian/faba-mono-icons 
+
+quick.sh
+
+generate-symlinks-dark.sh
+generate-symlinks-light.sh
+trim-tray-icons-dark.sh
+trim-tray-icons-light.sh
+colour-replace.py
+
+faba-mono-icons .zip
