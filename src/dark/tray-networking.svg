@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="248.6445"
-     inkscape:cy="133.41537"
-     inkscape:current-layer="g6830"
+     inkscape:cx="234.73554"
+     inkscape:cy="55.79957"
+     inkscape:current-layer="g4048"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -8723,53 +8723,6 @@
          x="231"
          y="229"
          inkscape:label="22x22" />
-    </g>
-    <g
-       style="display:none"
-       inkscape:label="Baseplate bluetooth"
-       id="g5102"
-       inkscape:groupmode="layer">
-      <text
-         y="26.115234"
-         xml:space="preserve"
-         x="15.006836"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         inkscape:label="context"
-         id="text5104"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-           y="26.115234"
-           x="15.006836"
-           sodipodi:role="line"
-           id="tspan5106">status</tspan></text>
-      <text
-         y="26.115234"
-         xml:space="preserve"
-         x="126.48828"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-         sodipodi:linespacing="125%"
-         inkscape:label="icon-name"
-         id="text5108"><tspan
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-           y="26.115234"
-           x="126.48828"
-           sodipodi:role="line"
-           id="tspan5110">bluetooth</tspan></text>
-      <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect5112"
-         width="24"
-         height="24"
-         x="230"
-         y="228"
-         inkscape:label="24x24" />
-      <rect
-         inkscape:label="22x22"
-         y="229"
-         x="231"
-         height="22"
-         width="22"
-         id="rect5114"
-         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
        inkscape:groupmode="layer"
