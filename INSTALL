@@ -61,6 +61,8 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 	fi
 	cp -R ./Faba-Dark/ /usr/local/share/icons/
 	cp -R ./Faba-Light/ /usr/local/share/icons/
+	chmod -R 655 /usr/local/share/icons/Faba-Dark
+	chmod -R 655 /usr/local/share/icons/Faba-Light
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
