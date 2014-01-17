@@ -43,13 +43,13 @@ esac
 
 function main {
 if [ "$UID" -eq "$ROOT_UID" ]; then
-	if [ -d /usr/local/share/themes/Faba-Dark ]; then
+	if [ -d /usr/share/themes/Faba-Dark ]; then
 		echo
 		read -p "Found an existing installation. Replace it? (Y)es, (N)o : " INPUT
 		case $INPUT in
 		[Yy]* ) 
-			rm -Rf /usr/local/share/themes/Faba-Dark 2>/dev/null
-			rm -Rf /usr/local/share/themes/Faba-Light 2>/dev/null
+			rm -Rf /usr/share/themes/Faba-Dark 2>/dev/null
+			rm -Rf /usr/share/themes/Faba-Light 2>/dev/null
 			;;
 		[Nn]* )
 			;;
@@ -59,10 +59,10 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 		    ;;
 		esac
 	fi
-	cp -R ./Faba-Dark/ /usr/local/share/icons/
-	cp -R ./Faba-Light/ /usr/local/share/icons/
-	chmod -R 655 /usr/local/share/icons/Faba-Dark
-	chmod -R 655 /usr/local/share/icons/Faba-Light
+	cp -R ./Faba-Dark/ /usr/share/icons/
+	cp -R ./Faba-Light/ /usr/share/icons/
+	chmod -R 755 /usr/share/icons/Faba-Dark
+	chmod -R 755 /usr/share/icons/Faba-Light
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
@@ -138,7 +138,7 @@ if [ "$UID" -ne "$ROOT_UID" ]; then
 	continue
 else
 	echo
-	echo "Faba Mono Icons will be installed in '/usr/local/share/icons'"
+	echo "Faba Mono Icons will be installed in '/usr/share/icons'"
 	echo "It will be available to all users."
 	continue
 fi
