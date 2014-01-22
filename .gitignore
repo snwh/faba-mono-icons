@@ -1,6 +1,8 @@
 *~
 *.bak
 *.orig
+*.zip
+*.tar.gz
 
 debian/files
 debian/faba-mono-icons .debhelper.log
