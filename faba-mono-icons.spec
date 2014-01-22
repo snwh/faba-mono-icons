@@ -17,7 +17,7 @@ Name:		faba-mono-icons
 Version:	1.0
 Release:	0
 
-Summary:	Faba Icon theme (Monochrome)
+Summary:	Faba Icon Theme (Monochrome)
 Group:		System/GUI/Other
 License:    LGPL-3.0+ or CC-BY-SA-3.0
 
@@ -30,7 +30,7 @@ BuildArch:	noarch
 
 
 %description
-Faba Icon Theme (Monochrome)
+Faba Icon Theme (Monochrome panel icons)
 
 %prep
 %setup -q
