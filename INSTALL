@@ -43,13 +43,13 @@ esac
 
 function main {
 if [ "$UID" -eq "$ROOT_UID" ]; then
-	if [ -d /usr/share/themes/Faba-Dark ]; then
+	if [ -d /usr/share/icons/Faba-Dark ]; then
 		echo
 		read -p "Found an existing installation. Replace it? (Y)es, (N)o : " INPUT
 		case $INPUT in
 		[Yy]* ) 
-			rm -Rf /usr/share/themes/Faba-Dark 2>/dev/null
-			rm -Rf /usr/share/themes/Faba-Light 2>/dev/null
+			rm -Rf /usr/share/icons/Faba-Dark 2>/dev/null
+			rm -Rf /usr/share/icons/Faba-Light 2>/dev/null
 			;;
 		[Nn]* )
 			;;
@@ -66,13 +66,13 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
-	if [ -d $HOME/.local/share/themes/Faba-Dark ]; then
+	if [ -d $HOME/.local/share/icons/Faba-Dark ]; then
 		echo
 		read -p "Found an existing installation. Replace it? (Y)es, (N)o : " INPUT
 		case $INPUT in
 		[Yy]* ) 
-			rm -Rf "$HOME/.local/share/themes/Faba-Dark" 2>/dev/null
-			rm -Rf "$HOME/.local/share/themes/Faba-Light" 2>/dev/null
+			rm -Rf "$HOME/.local/share/icons/Faba-Dark" 2>/dev/null
+			rm -Rf "$HOME/.local/share/icons/Faba-Light" 2>/dev/null
 			;;
 		[Nn]* )
 			;;		
