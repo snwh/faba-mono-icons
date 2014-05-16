@@ -11,6 +11,5 @@ Package: faba-mono-icons
 Architecture: all
 Depends: ${misc:Depends}
  faba-icon-theme
-Description: faba Icon Theme
- faba desktop icon theme (symbolic icons)
- Stylised icons that are symbolic variations on the standard theme.
+Description: Faba Mono Icon Theme 
+ Stylised tray icons for the Faba icon theme.

@@ -38,11 +38,9 @@ esac
 
 function main {
 if [ "$UID" -eq "$ROOT_UID" ]; then
-	rm -Rf /usr/share/icons/Faba-Light 2>/dev/null
 	rm -Rf /usr/share/icons/Faba-Dark 2>/dev/null
 else
 	rm -Rf $HOME/.local/share/icons/Faba-Dark 2>/dev/null
-	rm -Rf $HOME/.local/share/icons/Faba-Light 2>/dev/null
 fi
 echo
 echo "Uninstallation complete."

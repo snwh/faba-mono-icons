@@ -14,11 +14,8 @@ debian/faba-mono-icons
 
 quick.sh
 
-generate-symlinks-dark.sh
-generate-symlinks-light.sh
-trim-dark-tray-icons.sh
-trim-light-tray-icons.sh
-colour-replace.py
+generate-symlinks.sh
+trim-tray-icons.sh
 create-zip.sh
 
 faba-mono-icons.zip

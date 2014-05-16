@@ -22,12 +22,9 @@ pkgver() {
 package() {
 
   # create theme dirs
-  install -d -m 755 "$pkgdir"/usr/share/icons/Faba-Light/
   install -d -m 755 "$pkgdir"/usr/share/icons/Faba-Dark/
 
   # install theme
-  cd $srcdir/faba-mono-icons/Faba-Light
-  cp -r . "$pkgdir"/usr/share/icons/Faba-Light/
   cd $srcdir/faba-mono-icons/Faba-Dark
   cp -r . "$pkgdir"/usr/share/icons/Faba-Dark/
 }

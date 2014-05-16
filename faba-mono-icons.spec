@@ -14,7 +14,7 @@
 
 
 Name:		faba-mono-icons
-Version:	1.0
+Version:	2.0
 Release:	0
 
 Summary:	Faba Icon Theme (Monochrome)
@@ -42,10 +42,8 @@ find -L . -type l -delete
 
 %install
 install -dpm 0755 $RPM_BUILD_ROOT%{_datadir}/icons/
-cp -a Faba-Light/ $RPM_BUILD_ROOT%{_datadir}/icons/
 cp -a Faba-Dark/ $RPM_BUILD_ROOT%{_datadir}/icons/
 
 %files
 %doc {AUTHORS,LICENSE}
-%{_datadir}/icons/Faba-Light/
 %{_datadir}/icons/Faba-Dark/
