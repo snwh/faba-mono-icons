@@ -30,7 +30,7 @@ BuildArch:	noarch
 
 
 %description
-Faba Icon Theme (Monochrome panel icons)
+The monochromatic panel icon sets for Faba.
 
 %prep
 %setup -q
