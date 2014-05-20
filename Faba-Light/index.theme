@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Faba-Dark
-Comment=Dark panel icons for Faba icon theme.
+Name=Faba-Light
+Comment=Light panel icons for Faba icon theme.
 Inherits=Moka,Faba,gnome
 
 # KDE Specifics
