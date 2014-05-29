@@ -49,6 +49,8 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 		case $INPUT in
 		[Yy]* ) 
 			rm -Rf /usr/share/icons/Faba-Dark 2>/dev/null
+			rm -Rf /usr/share/icons/Faba-Light 2>/dev/null
+			rm -Rf /usr/share/icons/Faba-Mixt 2>/dev/null
 			;;
 		[Nn]* )
 			;;
@@ -59,7 +61,11 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 		esac
 	fi
 	cp -R ./Faba-Dark/ /usr/share/icons/
+	cp -R ./Faba-Light/ /usr/share/icons/
+	cp -R ./Faba-Mixt/ /usr/share/icons/
 	chmod -R 755 /usr/share/icons/Faba-Dark
+	chmod -R 755 /usr/share/icons/Faba-Light
+	chmod -R 755 /usr/share/icons/Faba-Mixt
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
@@ -69,6 +75,8 @@ elif [ "$UID" -ne "$ROOT_UID" ]; then
 		case $INPUT in
 		[Yy]* ) 
 			rm -Rf "$HOME/.local/share/icons/Faba-Dark" 2>/dev/null
+			rm -Rf "$HOME/.local/share/icons/Faba-Light" 2>/dev/null
+			rm -Rf "$HOME/.local/share/icons/Faba-Mixt" 2>/dev/null
 			;;
 		[Nn]* )
 			;;		
@@ -79,27 +87,11 @@ elif [ "$UID" -ne "$ROOT_UID" ]; then
 		esac
 	fi
 	cp -R ./Faba-Dark/ $HOME/.local/share/icons/
+	cp -R ./Faba-Light/ $HOME/.local/share/icons/
+	cp -R ./Faba-Mixt/ $HOME/.local/share/icons/
 	echo "Installation complete!"
-	set
+	end
 fi
-}
-
-function set {
-echo ""
-read -p "Do you want to set Faba as your desktop icon theme now? (Y)es, (N)o : " INPUT
-case $INPUT in
-	[Yy]* ) settheme;;
-    [Nn]* ) end;;
-    * ) echo; echo "Uh oh, invalid response. Please retry."; set;;
-esac
-}
-
-function settheme {
-echo ""
-echo "Setting Faba-Dark as desktop icon theme..."
-gsettings set org.gnome.desktop.interface icon-theme "Faba-Dark"
-echo "Done."
-end
 }
 
 function end {
