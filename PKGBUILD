@@ -1,6 +1,6 @@
 pkgname=faba-mono-icons-git
 _pkgname=faba-mono-icons
-pkgver=2.0
+pkgver=2.1
 pkgrel=2
 pkgdesc="The monochromatic panel icon sets for Faba."
 arch=('any')

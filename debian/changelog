@@ -1,8 +1,14 @@
+faba-mono-icons (2.1) UNRELEASED; urgency=low
+
+  * 2.1 release; added Faba-Mixt
+
+ -- Sam Hewitt <hewittsamuel@gmail.com>  Thu, 29 May 2014 20:00:00 -0400
+
 faba-mono-icons (2.0) UNRELEASED; urgency=low
 
   * 2.0 point release; removed light panel icons.
 
- -- Sam Hewitt <hewittsamuel@gmail.com>  Fri, 16 Mat 2014 11:00:00 -0400
+ -- Sam Hewitt <hewittsamuel@gmail.com>  Fri, 16 May 2014 11:00:00 -0400
 
 
 faba-mono-icons (1.0) UNRELEASED; urgency=low

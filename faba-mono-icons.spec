@@ -14,7 +14,7 @@
 
 
 Name:		faba-mono-icons
-Version:	2.0
+Version:	2.1
 Release:	2
 
 Summary:	Faba Icon Theme (Monochrome)
