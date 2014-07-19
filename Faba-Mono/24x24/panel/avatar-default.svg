@@ -89,7 +89,7 @@
     <path
        id="path8976"
        d="M 11,-1 C 8.79086,-1 7,0.79086 7,3 7,5.20914 8.79086,7 11,7 13.20914,7 15,5.20914 15,3 15,0.79086 13.20914,-1 11,-1 z"
-       style="opacity:0.3;color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.2;color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss" />
     <path
@@ -99,7 +99,7 @@
        d="m 11,-2 c -2.20914,0 -4,1.79085998 -4,4 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914002 -1.79086,-4 -4,-4 z"
        id="path4266" />
     <path
-       style="opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;enable-background:new"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;enable-background:new"
        d="M 7.78125,6.78125 C 5.53259,7.9458 5,10.2929 5,13 l 12,0 C 17,10.2929 16.46741,7.9458 14.21875,6.78125 13.34416,7.52942 12.23393,8 11,8 9.76607,8 8.65584,7.52942 7.78125,6.78125 z"
        id="path8978"
        inkscape:connector-curvature="0"
