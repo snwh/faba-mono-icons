@@ -1,4 +1,10 @@
-faba-mono-icons (2.1) UNRELEASED; urgency=low
+faba-mono-icons (4.0) UNRELEASED; urgency=low
+
+  * Creation of unified theme; to hell with other theme compatibility; migration to SVG
+
+ -- Sam Hewitt <hewittsamuel@gmail.com>  Sat, 19 Jul 2014 13:00:00 -0400
+
+faba-mono-icons (3.0) UNRELEASED; urgency=low
 
   * 3.0 arbitrary version increase
 
