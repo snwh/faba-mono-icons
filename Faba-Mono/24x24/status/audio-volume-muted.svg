@@ -62,7 +62,7 @@
      inkscape:window-width="1364"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:zoom="8">
+     inkscape:zoom="1">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -122,7 +122,7 @@
      style="display:inline"
      transform="translate(-322.00021,369.01559)">
     <g
-       transform="translate(4.00026,-1.99984)"
+       transform="translate(4.00026,-0.99984)"
        style="opacity:0.2;fill:#000000;fill-opacity:1"
        id="g4369">
       <path
@@ -139,7 +139,7 @@
     <g
        id="g3857"
        style="fill:#ffffff;fill-opacity:1"
-       transform="translate(4.00026,-2.99984)">
+       transform="translate(4.00026,-1.99984)">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          id="path1023"

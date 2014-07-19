@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="battery-full-charging-symbolic.svg"
+   sodipodi:docname="battery-full-charging.svg"
    inkscape:export-filename="/home/sam/img/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -62,7 +62,7 @@
      inkscape:window-width="1364"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:zoom="11.313708">
+     inkscape:zoom="1">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -122,38 +122,38 @@
      style="display:inline"
      transform="translate(-377.00018,351)">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;opacity:0.2"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        sodipodi:nodetypes="cccccccccccccccccc"
        id="path5457"
-       d="m 385.00018,-342 0,3.09375 1.84375,-3.09375 z m 4,0 0,2 2,0 0,-2 z m 2,4.90625 -1.84375,3.09375 1.84375,0 z m -6,1.09375 0,2 2,0 0,-2 z"
+       d="m 386.00018,-341 0,3.09375 1.84375,-3.09375 z m 4,0 0,2 2,0 0,-2 z m 2,4.90625 -1.84375,3.09375 1.84375,0 z m -6,1.09375 0,2 2,0 0,-2 z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;opacity:0.2"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        sodipodi:nodetypes="ccccccsscsccsccccccc"
        id="path5459"
-       d="m 386.00018,-346 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z"
+       d="m 387.00018,-345 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;opacity:0.2"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        sodipodi:nodetypes="ccccccc"
        id="path5461"
-       d="m 388.00018,-342 0,3 3,0 -3,5 0,-3 -3,0 z"
+       d="m 389.00018,-341 0,3 3,0 -3,5 0,-3 -3,0 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 385.00018,-343 0,3.09375 1.84375,-3.09375 z m 4,0 0,2 2,0 0,-2 z m 2,4.90625 -1.84375,3.09375 1.84375,0 z m -6,1.09375 0,2 2,0 0,-2 z"
+       d="m 386.00018,-342 0,3.09375 1.84375,-3.09375 z m 4,0 0,2 2,0 0,-2 z m 2,4.90625 -1.84375,3.09375 1.84375,0 z m -6,1.09375 0,2 2,0 0,-2 z"
        id="path7440-8"
        sodipodi:nodetypes="cccccccccccccccccc"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
     <path
        inkscape:connector-curvature="0"
-       d="m 386.00018,-347 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z"
+       d="m 387.00018,-346 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z"
        id="path7444-2"
        sodipodi:nodetypes="ccccccsscsccsccccccc"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
     <path
        inkscape:connector-curvature="0"
-       d="m 388.00018,-343 0,3 3,0 -3,5 0,-3 -3,0 z"
+       d="m 389.00018,-342 0,3 3,0 -3,5 0,-3 -3,0 z"
        id="path7832"
        sodipodi:nodetypes="ccccccc"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new" />

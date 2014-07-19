@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="network-wireless-signal-none-symbolic.svg"
+   sodipodi:docname="network-wireless-signal-none.svg"
    inkscape:export-filename="/home/sam/img/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -124,11 +124,11 @@
     <path
        style="opacity:0.2;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3909"
-       d="m 352.0002,-397 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 357.71234,-395.93454 355.01125,-397 352.0002,-397 z m -0.0625,1 c 2.39362,0 4.52424,0.83638 6.4375,2.03125 l -6.4375,7 -6.375,-7.03125 c 1.90092,-1.17864 4.00536,-2 6.375,-2 z"
+       d="m 353.0002,-396 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 358.71234,-394.93454 356.01125,-396 353.0002,-396 z m -0.0625,1 c 2.39362,0 4.52424,0.83638 6.4375,2.03125 l -6.4375,7 -6.375,-7.03125 c 1.90092,-1.17864 4.00536,-2 6.375,-2 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 352.0002,-398 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 357.71234,-396.93454 355.01125,-398 352.0002,-398 z m -0.0625,1 c 2.39362,0 4.52424,0.83638 6.4375,2.03125 l -6.4375,7 -6.375,-7.03125 c 1.90092,-1.17864 4.00536,-2 6.375,-2 z"
+       d="m 353.0002,-397 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 358.71234,-395.93454 356.01125,-397 353.0002,-397 z m -0.0625,1 c 2.39362,0 4.52424,0.83638 6.4375,2.03125 l -6.4375,7 -6.375,-7.03125 c 1.90092,-1.17864 4.00536,-2 6.375,-2 z"
        id="path7616"
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>

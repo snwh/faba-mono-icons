@@ -122,9 +122,9 @@
      style="display:inline"
      transform="translate(-322.00021,369.01559)">
     <g
-       transform="translate(4.00026,-1.99984)"
+       transform="translate(4.00026,-0.99984)"
        id="g3083"
-       style="opacity:0.20000000000000001;fill:#000000;fill-opacity:1">
+       style="opacity:0.2;fill:#000000;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          d="m 331.46895,-361 -2.96875,3 -1.5,0 -1,0 0,6 0.9375,0 5.0625,-5.0625 0,-3.9375 -0.53125,0 z m 0.53125,6.0625 -3.21875,3.21875 2.75,2.75 0.46875,-0.0312 0,-5.9375 z"
@@ -134,11 +134,11 @@
          inkscape:connector-curvature="0"
          d="m 334.46895,-361.53125 -11,11 1.0625,1.0625 11,-11 -1.0625,-1.0625 z"
          id="path3087"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     </g>
     <g
        id="g3079"
-       transform="translate(4.00026,-2.99984)">
+       transform="translate(4.00026,-1.99984)">
       <path
          style="color:#444444;fill:#00aff0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="path4990"

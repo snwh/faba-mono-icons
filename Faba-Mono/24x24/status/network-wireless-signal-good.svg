@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="network-wireless-signal-good-symbolic.svg"
+   sodipodi:docname="network-wireless-signal-good.svg"
    inkscape:export-filename="/home/sam/img/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -122,7 +122,7 @@
      style="display:inline"
      transform="translate(-280.99742,403)">
     <g
-       transform="translate(2.968731,4)"
+       transform="translate(3.968731,5)"
        id="g4941"
        style="opacity:0.2;fill:#000000;fill-opacity:1">
       <path
@@ -138,7 +138,7 @@
     </g>
     <g
        id="g4937"
-       transform="translate(2.968731,3)">
+       transform="translate(3.968731,4)">
       <path
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path7329"

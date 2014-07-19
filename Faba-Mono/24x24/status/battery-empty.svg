@@ -126,32 +126,30 @@
        inkscape:connector-curvature="0"
        class="error"
        id="path3015"
-       d="m 272.0002,-341 0,5 0.25,2 1.5,0 0.25,-2 0,-5 z m 0,8 0,2 2,0 0,-2 z"
+       d="m 273.0002,-340 0,5 0.25,2 1.5,0 0.25,-2 0,-5 z m 0,8 0,2 2,0 0,-2 z"
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
     <rect
-       style="opacity:0.35;color:#000000;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.35;color:#000000;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3807"
        width="6"
        height="8"
-       x="8.0000124"
-       y="8"
-       transform="translate(257.00019,-351)"
+       x="266.00021"
+       y="-342"
        ry="0" />
     <path
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 9,5 0,1 4,0 0,-1 z M 6.84375,7 C 6.5625,7.0469 6,7.25 6,8 l 0,10 c 0,1 1,1 1,1 l 7,0 0,-1 -7,0 0,-10 8,0 0,1 1,0 0,-1 C 16,8 16,7 15,7 L 7,7 C 7,7 6.9375,6.9844 6.84375,7 z"
-       transform="translate(257.00019,-351)"
+       d="m 267.00019,-345 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 7,0 0,-1 -7,0 0,-10 8,0 0,1 1,0 0,-1 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z"
        id="path3765"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccsscccccccccscc" />
     <path
        style="fill:#e13f2b;fill-opacity:1;stroke:none"
-       d="M 9 4 L 9 5 L 13 5 L 13 4 L 9 4 z M 6.84375 6 C 6.5625 6.0469 6 6.25 6 7 L 6 17 C 6 18 7 18 7 18 L 14 18 L 14 17 L 7 17 L 7 7 L 15 7 L 15 8 L 16 8 L 16 7 C 16 7 16 6 15 6 L 7 6 C 7 6 6.9375 5.9844 6.84375 6 z "
-       transform="translate(257.00019,-351)"
-       id="rect2388-2-2-5" />
+       d="m 267.00019,-346 0,1 4,0 0,-1 -4,0 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 7,0 0,-1 -7,0 0,-10 8,0 0,1 1,0 0,-1 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z"
+       id="rect2388-2-2-5"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#e13f2b;fill-opacity:1;stroke:none;display:inline;enable-background:new"
-       d="m 272.0002,-342 0,5 0.25,2 1.5,0 0.25,-2 0,-5 z m 0,8 0,2 2,0 0,-2 z"
+       d="m 273.0002,-341 0,5 0.25,2 1.5,0 0.25,-2 0,-5 z m 0,8 0,2 2,0 0,-2 z"
        id="path7562"
        class="error"
        inkscape:connector-curvature="0"

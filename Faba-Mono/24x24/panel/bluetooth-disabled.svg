@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="network-wireless-signal-excellent.svg"
+   sodipodi:docname="bluetooth-disabled.svg"
    inkscape:export-filename="/home/sam/img/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="15.66929"
-     inkscape:cy="13.80891"
+     inkscape:cx="-1.7238293"
+     inkscape:cy="7.7357271"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -72,8 +72,8 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-20px"
-       originy="-620px"
+       originx="-15.999988px"
+       originy="-562px"
        snapvisiblegridlinesonly="true"
        spacingx="0.25px"
        spacingy="0.25px"
@@ -120,83 +120,59 @@
      id="layer9"
      inkscape:label="status"
      style="display:inline"
-     transform="translate(-261.0002,403)">
-    <g
-       transform="translate(3.96873,5)"
-       id="g5967"
-       style="opacity:0.2;fill:#000000;fill-opacity:1">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 269.03147,-401 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 274.74361,-399.93454 272.04252,-401 269.03147,-401 z m 0,1 c 2.36964,0 4.47408,0.82136 6.375,2 l -6.375,7 -6.4375,-6.96875 c 1.91326,-1.19487 4.04388,-2.03125 6.4375,-2.03125 z"
-         id="path5969"
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 269.03147,-399 c -1.72947,0 -3.28925,0.5728 -4.78125,1.34375 l 4.78125,5.15625 4.71875,-5.1875 c -1.4758,-0.75648 -3.01086,-1.3125 -4.71875,-1.3125 z"
-         id="path5971"
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
-    <g
-       id="g5963"
-       transform="translate(3.96873,4)">
-      <path
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3074"
-         d="m 269.03147,-401 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 274.74361,-399.93454 272.04252,-401 269.03147,-401 z m 0,1 c 2.36964,0 4.47408,0.82136 6.375,2 l -6.375,7 -6.4375,-6.96875 c 1.91326,-1.19487 4.04388,-2.03125 6.4375,-2.03125 z"
-         inkscape:connector-curvature="0" />
-      <path
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path7407"
-         d="m 269.03147,-399 c -1.72947,0 -3.28925,0.5728 -4.78125,1.34375 l 4.78125,5.15625 4.71875,-5.1875 c -1.4758,-0.75648 -3.01086,-1.3125 -4.71875,-1.3125 z"
-         inkscape:connector-curvature="0" />
-    </g>
+     transform="translate(-257.00019,351)">
+    <path
+       style="color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.35"
+       d="m 268.65644,-346 a 0.750075,0.750075 0 0 0 -0.0937,0.0312 l -0.5625,0 0,0.5 0,0.125 a 0.750075,0.750075 0 0 0 0,0.21875 l 0,4.78125 -1.78125,-1.46875 a 0.750075,0.750075 0 0 0 -0.5625,-0.1875 0.750075,0.750075 0 0 0 -0.15625,0.0312 l -0.5,0 0,0.53125 a 0.750075,0.750075 0 0 0 0,0.21875 0.750075,0.750075 0 0 0 0.28125,0.5625 l 2.03125,1.65625 -2.03125,1.6875 a 0.750075,0.750075 0 0 0 -0.28125,1 l 0,0.34375 0.46875,0 a 0.750075,0.750075 0 0 0 0.75,-0.1875 l 1.78125,-1.46875 0,4.625 a 0.750075,0.750075 0 0 0 0,0.71875 l 0,0.3125 0.34375,0 a 0.750075,0.750075 0 0 0 0.90625,-0.21875 l 3.5,-3.25 a 0.750075,0.750075 0 0 0 -0.0312,-1.125 l -3.03125,-2.4375 3.03125,-2.40625 a 0.750075,0.750075 0 0 0 0.0312,-1.125 l -3.5,-3.25 a 0.750075,0.750075 0 0 0 -0.5313,-0.21865 0.750075,0.750075 0 0 0 -0.0625,0 z m 0.34375,2 2.125,1.96875 -2.125,1.6875 0,-3.65625 z m 0,6.375 2.125,1.6875 -2.125,1.96875 0,-3.65625 z"
+       id="rect8730"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices"
      style="display:inline;filter:url(#filter7554)"
-     transform="translate(-261.0002,403)" />
+     transform="translate(-257.00019,351)" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="places"
      style="display:inline"
-     transform="translate(-20,-214)" />
+     transform="translate(-15.999988,-266)" />
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimetypes"
      style="display:inline"
-     transform="translate(-261.0002,403)" />
+     transform="translate(-257.00019,351)" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
      style="display:inline"
-     transform="translate(-261.0002,403)" />
+     transform="translate(-257.00019,351)" />
   <g
      inkscape:groupmode="layer"
      id="g71291"
      inkscape:label="emotes"
      style="display:inline"
-     transform="translate(-261.0002,403)" />
+     transform="translate(-257.00019,351)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="categories"
      style="display:inline"
-     transform="translate(-20,-64)" />
+     transform="translate(-15.999988,-116)" />
   <g
      inkscape:groupmode="layer"
      id="g6058"
      inkscape:label="apps"
      style="display:inline"
-     transform="translate(-20,-64)" />
+     transform="translate(-15.999988,-116)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-261.0002,403)" />
+     transform="translate(-257.00019,351)" />
 </svg>

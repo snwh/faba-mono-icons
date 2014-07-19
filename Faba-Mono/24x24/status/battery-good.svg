@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="battery-caution-symbolic.svg"
+   sodipodi:docname="battery-good.svg"
    inkscape:export-filename="/home/sam/img/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -62,7 +62,7 @@
      inkscape:window-width="1364"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:zoom="11.313708">
+     inkscape:zoom="1">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -122,23 +122,22 @@
      style="display:inline"
      transform="translate(-257.00019,351)">
     <rect
-       style="opacity:0.35;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.35;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3807"
        width="6"
        height="8"
-       x="8.0000124"
-       y="8"
-       transform="translate(257.00019,-351)"
+       x="266.00021"
+       y="-342"
        ry="0" />
     <path
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
        sodipodi:nodetypes="ccccccsscsccscccccccccccc"
        id="path3765"
-       d="m 266.00019,-346 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z m 1.00001,3 -1e-5,6 6,0 1e-5,-6 z"
+       d="m 267.00019,-345 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z m 1.00001,3 -1e-5,6 6,0 1e-5,-6 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 266.00019,-347 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z m 1.00001,3 -1e-5,6 6,0 1e-5,-6 z"
+       d="m 267.00019,-346 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z m 1.00001,3 -1e-5,6 6,0 1e-5,-6 z"
        id="rect2388-2-2-5"
        sodipodi:nodetypes="ccccccsscsccscccccccccccc"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
