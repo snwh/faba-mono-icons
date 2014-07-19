@@ -12,3 +12,7 @@ debian/faba-mono-icons .postrm.debhelper
 debian/faba-mono-icons .prerm.debhelper
 debian/faba-mono-icons .substvars
 debian/faba-mono-icons 
+
+data
+data/
+data/*
