@@ -14,7 +14,7 @@
 
 
 Name:		faba-mono-icons
-Version:	2.1
+Version:	3.0
 Release:	2
 
 Summary:	Faba Icon Theme (Monochrome)
@@ -25,7 +25,7 @@ Group:      System/GUI/GNOME
 Url:        http://www.mokaproject.com/faba-icon-theme
 Source0:	%{name}-%{version}.tar.gz
 
-Requires:	faba-mono-icons
+Requires:	faba-icon-theme
 BuildArch:	noarch
 
 
@@ -47,7 +47,7 @@ cp -a Faba-Light/ $RPM_BUILD_ROOT%{_datadir}/icons/
 cp -a Faba-Mixt/ $RPM_BUILD_ROOT%{_datadir}/icons/
 
 %files
-%doc {AUTHORS,LICENSE}
+%doc AUTHORS LICENSE
 %{_datadir}/icons/Faba-Dark/
 %{_datadir}/icons/Faba-Light/
 %{_datadir}/icons/Faba-Mixt/
