@@ -4,7 +4,7 @@ Comment=The monochrome panel icons from Moka.
 Inherits=Moka,Faba,gnome
 
 # Directory list
-Directories=16x16/animations,16x16/apps,16x16/panel,16x16/status,22x22/animations,22x22/apps,22x22/panel,22x22/status,24x24/animations,24x24/apps,24x24/panel,24x24/status,48x48/status
+Directories=16x16/animations,16x16/apps,16x16/panel,16x16/status,22x22/animations,22x22/apps,22x22/panel,22x22/status,24x24/animations,24x24/apps,24x24/panel,24x24/status,48x48/notifications
 
 [16x16/animations]
 Context=Animations
@@ -63,5 +63,5 @@ Type=Fixed
 
 [48x48/notifications]
 Context=Status
-Size=24
+Size=48
 Type=Fixed
