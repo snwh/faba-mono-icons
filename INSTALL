@@ -43,14 +43,12 @@ esac
 
 function main {
 if [ "$UID" -eq "$ROOT_UID" ]; then
-	if [ -d /usr/share/icons/Faba-Dark ]; then
+	if [ -d /usr/share/icons/Faba-Mono ]; then
 		echo
 		read -p "Found an existing installation. Replace it? (Y)es, (N)o : " INPUT
 		case $INPUT in
 		[Yy]* ) 
-			rm -Rf /usr/share/icons/Faba-Dark 2>/dev/null
-			rm -Rf /usr/share/icons/Faba-Light 2>/dev/null
-			rm -Rf /usr/share/icons/Faba-Mixt 2>/dev/null
+			rm -Rf /usr/share/icons/Faba-Mono 2>/dev/null
 			;;
 		[Nn]* )
 			;;
@@ -60,23 +58,17 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 		    ;;
 		esac
 	fi
-	cp -R ./Faba-Dark/ /usr/share/icons/
-	cp -R ./Faba-Light/ /usr/share/icons/
-	cp -R ./Faba-Mixt/ /usr/share/icons/
-	chmod -R 755 /usr/share/icons/Faba-Dark
-	chmod -R 755 /usr/share/icons/Faba-Light
-	chmod -R 755 /usr/share/icons/Faba-Mixt
+	cp -R ./Faba-Mono/ /usr/share/icons/
+	chmod -R 755 /usr/share/icons/Faba-Mono
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
-	if [ -d $HOME/.local/share/icons/Faba-Dark ]; then
+	if [ -d $HOME/.local/share/icons/Faba-Mono ]; then
 		echo
 		read -p "Found an existing installation. Replace it? (Y)es, (N)o : " INPUT
 		case $INPUT in
 		[Yy]* ) 
-			rm -Rf "$HOME/.local/share/icons/Faba-Dark" 2>/dev/null
-			rm -Rf "$HOME/.local/share/icons/Faba-Light" 2>/dev/null
-			rm -Rf "$HOME/.local/share/icons/Faba-Mixt" 2>/dev/null
+			rm -Rf "$HOME/.local/share/icons/Faba-Mono" 2>/dev/null
 			;;
 		[Nn]* )
 			;;		
@@ -86,12 +78,29 @@ elif [ "$UID" -ne "$ROOT_UID" ]; then
 		    ;;
 		esac
 	fi
-	cp -R ./Faba-Dark/ $HOME/.local/share/icons/
-	cp -R ./Faba-Light/ $HOME/.local/share/icons/
-	cp -R ./Faba-Mixt/ $HOME/.local/share/icons/
+	cp -R ./Faba-Mono/ $HOME/.local/share/icons/
 	echo "Installation complete!"
-	end
+	set
 fi
+}
+
+
+
+function set {
+echo ""
+read -p "Do you want to set Faba-Mono as desktop theme? (Y)es, (N)o : " INPUT
+case $INPUT in
+	[Yy]* ) settheme;;
+    [Nn]* ) end;;
+    * ) echo; echo "Uh oh, invalid response. Please retry."; set;;
+esac
+}
+
+function settheme {
+echo "Setting Faba-Mono as desktop Icon theme..."
+gsettings set org.gnome.desktop.interface icon-theme "Faba-Mono"
+echo "Done."
+end
 }
 
 function end {
