@@ -9,7 +9,6 @@
    <feGaussianBlur stdDeviation="1.71" id="feGaussianBlur3176-5"/>
   </filter>
   <linearGradient y1="92.54" x2="0" y2="7.02" id="linearGradient6176" xlink:href="#ButtonShadow-9" gradientUnits="userSpaceOnUse" gradientTransform="scale(1.0058652,0.994169)"/>
-  <linearGradient y1="92.54" x2="0" y2="7.02" id="linearGradient6178" xlink:href="#ButtonShadow-9" gradientUnits="userSpaceOnUse" gradientTransform="scale(1.0058652,0.994169)"/>
  </defs>
  <metadata id="metadata7"/>
  <g id="g5963" transform="matrix(2,0,0,2,-514.00044,815)" opacity="0.35" fill="#444444" enable-background="new">

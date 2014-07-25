@@ -9,7 +9,6 @@
    <feGaussianBlur stdDeviation="1.71" id="feGaussianBlur3176-5"/>
   </filter>
   <linearGradient y1="92.54" x2="0" y2="7.02" id="linearGradient6176" xlink:href="#ButtonShadow-9" gradientUnits="userSpaceOnUse" gradientTransform="scale(1.0058652,0.994169)"/>
-  <linearGradient y1="92.54" x2="0" y2="7.02" id="linearGradient6178" xlink:href="#ButtonShadow-9" gradientUnits="userSpaceOnUse" gradientTransform="scale(1.0058652,0.994169)"/>
  </defs>
  <metadata id="metadata7"/>
  <path inkscape:connector-curvature="0" d="m 20.93984,12.007087 -6,6 -2.9375,0 -2,0 0,11.999999 4.9375,0 6.125,6.0625 0.9375,-0.0624 0,-23.999999 -1.0625,0 z" id="path5491" sodipodi:nodetypes="ccccccccccc" fill="#444444" color="#444444"/>
