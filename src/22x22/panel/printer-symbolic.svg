@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg3396"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="application-running.svg">
+  <defs
+     id="defs3398" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.44313725"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-20.783854"
+     inkscape:cy="13.087223"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1364"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3404"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originy="3px"
+       originx="3px" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="3,19"
+       id="guide3489" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="3,3"
+       id="guide3491" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="3,19"
+       id="guide3495" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="19,19"
+       id="guide3497" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3401">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,6)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3779"
+       d="m 5.99999,-1 0,3 1,0 1,0 0,-1 6,0 0,1 1,0 1,0 0,-3 -10,0 z m 0,9 0,5 10,0 0,-5 -1,0 -1,0 0,3 -6,0 0,-3 -1,0 -1,0 z"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.2" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.2"
+       d="m 4.84374,2.99998 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,3 c 0,1 0.96875,1 0.96875,1 l 0.0312,-1 12,0 c 0,0 0.008,1 0,1 1.03125,0 1,-1 1,-1 l 0,-3 c 0,0 0,-1 -1,-1 l -12,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 1.15625,2 1,0 0,1 -1,0 z"
+       id="path3781"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccccccscccccccc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 5.99999,-2 0,3 1,0 1,0 0,-1 6,0 0,1 1,0 1,0 0,-3 -10,0 z m 0,9 0,5 10,0 0,-5 -1,0 -1,0 0,3 -6,0 0,-3 -1,0 -1,0 z"
+       id="path6123-4"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cssccccccscccccccc"
+       inkscape:connector-curvature="0"
+       id="path6130-5"
+       d="m 4.84374,1.99998 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,3 c 0,1 0.96875,1 0.96875,1 l 0.0312,-1 12,0 c 0,0 0.008,1 0,1 1.03125,0 1,-1 1,-1 l 0,-3 c 0,0 0,-1 -1,-1 l -12,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 1.15625,2 1,0 0,1 -1,0 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
