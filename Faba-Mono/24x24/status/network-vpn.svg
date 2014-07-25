@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="network-vpn.svg"
+   sodipodi:docname="network-offline.svg"
    inkscape:export-filename="/home/sam/img/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="11.424967"
-     inkscape:cy="5.8970779"
+     inkscape:cx="20.197711"
+     inkscape:cy="15.209928"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -40,7 +40,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
-     showgrid="true"
+     showgrid="false"
      showguides="true"
      inkscape:showpageshadow="true"
      inkscape:snap-bbox="true"
@@ -62,7 +62,7 @@
      inkscape:window-width="1364"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:zoom="22.627417">
+     inkscape:zoom="16">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -72,8 +72,8 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-200.99998px"
-       originy="-603px"
+       originx="-201.99998px"
+       originy="-620px"
        snapvisiblegridlinesonly="true"
        spacingx="0.25px"
        spacingy="0.25px"
@@ -120,64 +120,64 @@
      id="layer9"
      inkscape:label="status"
      style="display:inline"
-     transform="translate(-442.00018,394)" />
+     transform="translate(-443.00018,411)" />
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices"
      style="display:inline;filter:url(#filter7554)"
-     transform="translate(-442.00018,394)" />
+     transform="translate(-443.00018,411)" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="places"
      style="display:inline"
-     transform="translate(-200.99998,-223)" />
+     transform="translate(-201.99998,-206)" />
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimetypes"
      style="display:inline"
-     transform="translate(-442.00018,394)" />
+     transform="translate(-443.00018,411)" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
      style="display:inline"
-     transform="translate(-442.00018,394)" />
+     transform="translate(-443.00018,411)" />
   <g
      inkscape:groupmode="layer"
      id="g71291"
      inkscape:label="emotes"
      style="display:inline"
-     transform="translate(-442.00018,394)" />
+     transform="translate(-443.00018,411)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="categories"
      style="display:inline"
-     transform="translate(-200.99998,-73)" />
+     transform="translate(-201.99998,-56)" />
   <g
      inkscape:groupmode="layer"
      id="g6058"
      inkscape:label="apps"
      style="display:inline"
-     transform="translate(-200.99998,-73)" />
+     transform="translate(-201.99998,-56)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-442.00018,394)">
+     transform="translate(-443.00018,411)">
     <path
-       style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6154"
-       d="m 450.5002,-387 -3.75,4 4,4.0312 1.375,-1.375 -1.625,-1.625 4.5,-0.031 0,-2 -4.5,0.031 1.625,-1.6562 -1.625,-1.375 z m 6.75,4 -1.375,1.375 1.28125,1.3125 c 0.51173,-0.4129 1.14044,-0.6875 1.84375,-0.6875 0.0975,0 0.18611,0.022 0.28125,0.031 L 457.2502,-383 z m -4.25,3 0,2 2,0 1,0 c 0.008,-0.7483 0.28727,-1.4391 0.75,-1.9688 l -3.75,-0.031 z m 6,0 c -1.108,0 -2,0.9108 -2,2.0312 l 0,0.9688 -1,0 0,1 0,2 0,1 1,0 4,0 1,0 0,-1 0,-2 0,-1 -1,0 0,-0.9688 c 0,-1.1199 -0.892,-2.0312 -2,-2.0312 z m 0,1 c 0.554,0 1,0.4424 1,1 l 0,1 -2,0 0,-1 c 0,-0.5576 0.446,-1 1,-1 z"
+       id="path4146"
+       d="m 457.00018,-405.53125 0,1.03125 0,1.5 -2.5,0 -0.5,0 0,1 0.5,0 3,0 0.5,0 0,-0.5 0,-0.96875 3.71875,2.96875 -3.71875,2.96875 0,-0.96875 0,-0.5 -0.5,0 -2.5,0 -2,0 0,-1.5 0,-1.03125 -0.8125,0.65625 -5,4 -0.5,0.375 0.5,0.375 5,4 0.8125,0.65625 0,-1.03125 0,-1.5 2.5,0 0.5,0 0,-1 -0.5,0 -3,0 -0.5,0 0,0.5 0,0.96875 -3.71875,-2.96875 3.71875,-2.96875 0,0.96875 0,0.5 0.5,0 2.5,0 2,0 0,1.5 0,1.03125 0.0625,-0.0312 c 0.25416,-1.40198 1.46548,-2.5 2.9375,-2.5 0.0428,0 0.0826,-0.002 0.125,0 l 2.6875,-2.125 0.5,-0.375 -0.5,-0.375 -5,-4 -0.8125,-0.65625 z m 3,8.53125 c -1.108,0 -2,0.91085 -2,2.03125 l 0,0.96875 -1,0 0,1 0,2 0,1 1,0 4,0 1,0 0,-1 0,-2 0,-1 -1,0 0,-0.96875 c 0,-1.1199 -0.892,-2.03125 -2,-2.03125 z m 0,1 c 0.554,0 1,0.4424 1,1 l 0,1 -2,0 0,-1 c 0,-0.5576 0.446,-1 1,-1 z"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:connector-curvature="0"
-       d="m 450.5002,-388 -3.75,4 4,4.0312 1.375,-1.375 -1.625,-1.625 4.5,-0.031 0,-2 -4.5,0.031 1.625,-1.6562 -1.625,-1.375 z m 6.75,4 -1.375,1.375 1.28125,1.3125 c 0.51173,-0.4129 1.14044,-0.6875 1.84375,-0.6875 0.0975,0 0.18611,0.022 0.28125,0.031 L 457.2502,-384 z m -4.25,3 0,2 2,0 1,0 c 0.008,-0.7483 0.28727,-1.4391 0.75,-1.9688 l -3.75,-0.031 z m 6,0 c -1.108,0 -2,0.9108 -2,2.0312 l 0,0.9688 -1,0 0,1 0,2 0,1 1,0 4,0 1,0 0,-1 0,-2 0,-1 -1,0 0,-0.9688 c 0,-1.1199 -0.892,-2.0312 -2,-2.0312 z m 0,1 c 0.554,0 1,0.4424 1,1 l 0,1 -2,0 0,-1 c 0,-0.5576 0.446,-1 1,-1 z"
-       id="path5983"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+       d="M 14 4.46875 L 14 5.5 L 14 7 L 11.5 7 L 11 7 L 11 8 L 11.5 8 L 14.5 8 L 15 8 L 15 7.5 L 15 6.53125 L 18.71875 9.5 L 15 12.46875 L 15 11.5 L 15 11 L 14.5 11 L 12 11 L 10 11 L 10 9.5 L 10 8.46875 L 9.1875 9.125 L 4.1875 13.125 L 3.6875 13.5 L 4.1875 13.875 L 9.1875 17.875 L 10 18.53125 L 10 17.5 L 10 16 L 12.5 16 L 13 16 L 13 15 L 12.5 15 L 9.5 15 L 9 15 L 9 15.5 L 9 16.46875 L 5.28125 13.5 L 9 10.53125 L 9 11.5 L 9 12 L 9.5 12 L 12 12 L 14 12 L 14 13.5 L 14 14.53125 L 14.0625 14.5 C 14.316665 13.098022 15.527977 12 17 12 C 17.042838 12 17.082597 11.998173 17.125 12 L 19.8125 9.875 L 20.3125 9.5 L 19.8125 9.125 L 14.8125 5.125 L 14 4.46875 z M 17 13 C 15.892 13 15 13.91085 15 15.03125 L 15 16 L 14 16 L 14 17 L 14 19 L 14 20 L 15 20 L 19 20 L 20 20 L 20 19 L 20 17 L 20 16 L 19 16 L 19 15.03125 C 19 13.91135 18.108 13 17 13 z M 17 14 C 17.554 14 18 14.4424 18 15 L 18 16 L 16 16 L 16 15 C 16 14.4424 16.446 14 17 14 z "
+       transform="translate(443.00018,-411)"
+       id="path5983" />
   </g>
 </svg>

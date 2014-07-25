@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="-171.19167"
-     inkscape:cy="21.33316"
+     inkscape:cx="19.890181"
+     inkscape:cy="7.7761254"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -72,8 +72,8 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-242.99998px"
-       originy="-601px"
+       originx="-201.99998px"
+       originy="-620px"
        snapvisiblegridlinesonly="true"
        spacingx="0.25px"
        spacingy="0.25px"
@@ -120,70 +120,66 @@
      id="layer9"
      inkscape:label="status"
      style="display:inline"
-     transform="translate(-484.00018,390)" />
+     transform="translate(-443.00018,409)" />
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices"
      style="display:inline;filter:url(#filter7554)"
-     transform="translate(-484.00018,390)" />
+     transform="translate(-443.00018,409)" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="places"
      style="display:inline"
-     transform="translate(-242.99998,-227)" />
+     transform="translate(-201.99998,-208)" />
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimetypes"
      style="display:inline"
-     transform="translate(-484.00018,390)" />
+     transform="translate(-443.00018,409)" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
      style="display:inline"
-     transform="translate(-484.00018,390)" />
+     transform="translate(-443.00018,409)" />
   <g
      inkscape:groupmode="layer"
      id="g71291"
      inkscape:label="emotes"
      style="display:inline"
-     transform="translate(-484.00018,390)" />
+     transform="translate(-443.00018,409)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="categories"
      style="display:inline"
-     transform="translate(-242.99998,-77)" />
+     transform="translate(-201.99998,-58)" />
   <g
      inkscape:groupmode="layer"
      id="g6058"
      inkscape:label="apps"
      style="display:inline"
-     transform="translate(-242.99998,-77)" />
+     transform="translate(-201.99998,-58)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-484.00018,390)">
-    <g
-       id="g7831"
-       transform="translate(2.99998,-3.02031)">
-      <path
-         style="opacity:0.35;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         sodipodi:nodetypes="cccccccccc"
-         id="path6040"
-         d="m 488.50103,-381.99992 1.63509,1.38585 -1.6349,1.63517 4.49898,-0.0211 0,2 -4.49898,0.0211 1.6349,1.63435 -1.38509,1.38509 -4.00083,-4.04057 z"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.35;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         sodipodi:nodetypes="cccccccccc"
-         id="path6042"
-         d="m 495.24937,-377.99992 -1.38509,1.38585 1.6349,1.63517 -4.49898,-0.0211 0,2 4.49898,0.0211 -1.6349,1.63435 1.38509,1.38509 4.00083,-4.04057 z"
-         inkscape:connector-curvature="0" />
-    </g>
+     transform="translate(-443.00018,409)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.35;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 456.00018,-405.53125 0,1.03125 0,1.5 -2.5,0 -0.5,0 0,1 0.5,0 3,0 0.5,0 0,-0.5 0,-0.96875 3.71875,2.96875 -3.71875,2.96875 0,-0.96875 0,-0.5 -0.5,0 -2.5,0 0,1 2,0 0,1.5 0,1.03125 0.8125,-0.65625 5,-4 0.5,-0.375 -0.5,-0.375 -5,-4 z"
+       id="path3766"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+    <path
+       id="path3783"
+       d="m 452.00018,-401.53125 -0.8125,0.65625 -5,4 -0.5,0.375 0.5,0.375 5,4 0.8125,0.65625 0,-1.03125 0,-1.5 2.5,0 0.5,0 0,-1 -0.5,0 -3,0 -0.5,0 0,0.5 0,0.96875 -3.71875,-2.96875 3.71875,-2.96875 0,0.96875 0,0.5 0.5,0 2.50002,0 0,-1 -2.00002,0 0,-1.5 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.35;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
   </g>
 </svg>
