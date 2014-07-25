@@ -15,7 +15,7 @@
 
 Name:		faba-mono-icons
 Version:	4.0
-Release:	4
+Release:	5
 
 Summary:	Faba Icon Theme (Monochrome)
 Group:		System/GUI/Other

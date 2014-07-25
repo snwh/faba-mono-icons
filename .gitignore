@@ -16,3 +16,7 @@ debian/faba-mono-icons
 data
 data/
 data/*
+
+backup-src
+backup-src/
+backup-src/*

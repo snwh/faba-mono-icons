@@ -1,89 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   height="24"
-   width="24"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="grive-app-ind.svg">
-  <sodipodi:namedview
-     pagecolor="#000000"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0.60784314"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1364"
-     inkscape:window-height="700"
-     id="namedview9"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="12"
-     inkscape:cy="2.04"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <style
-       id="style3072"
-       type="text/css">.fil2 {fill:#11A861}
-    .fil0 {fill:#3777E3}
-    .fil1 {fill:#FFCF63}</style>
-  </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     style="opacity:0.2;fill:#000000;fill-opacity:1"
-     transform="translate(0,-1027.36)"
-     id="g3753">
-    <g
-       style="fill:#000000;fill-opacity:1"
-       transform="translate(-67.913,-42.84)"
-       id="g3755">
-      <path
-         transform="translate(67.913,1071.2)"
-         d="M 9,4 14.625,14 21,15 15,4 H 9 z M 9,4 3,15 6,20 8.8125,15 11.375,10.438 9,4 z M 6,20 h 12 l 3,-5 H 15.188 10 l -4,5 z"
-         style="color:#000000;fill:#000000;fill-opacity:1"
-         id="path3757"
-         inkscape:connector-curvature="0" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="24" width="24" version="1.1">
+ <metadata id="metadata7"/>
+ <g transform="translate(0,-1027.36)" id="g3753" opacity="0.2">
+  <g transform="translate(-67.913,-42.84)" id="g3755">
+   <path transform="translate(67.913,1071.2)" d="M 9,4 14.625,14 21,15 15,4 H 9 z M 9,4 3,15 6,20 8.8125,15 11.375,10.438 9,4 z M 6,20 h 12 l 3,-5 H 15.188 10 l -4,5 z" id="path3757" inkscape:connector-curvature="0" color="#000000"/>
   </g>
-  <g
-     id="layer1"
-     transform="translate(0 -1028.4)"
-     style="fill:#ffffff;fill-opacity:1">
-    <g
-       id="g4036"
-       transform="translate(-67.913 -42.84)"
-       style="fill:#ffffff;fill-opacity:1">
-      <path
-         id="path3094"
-         style="color:#000000;fill:#ffffff;fill-opacity:1"
-         d="m9 4l5.625 10 6.375 1-6-11h-6zl-6 11 3 5 2.8125-5 2.5625-4.562-2.375-6.438zm-3 16h12l3-5h-5.812-5.188l-4 5z"
-         transform="translate(67.913 1071.2)" />
-    </g>
+ </g>
+ <g id="layer1" transform="translate(0 -1028.4)" fill="#ffffff">
+  <g id="g4036" transform="translate(-67.913 -42.84)">
+   <path id="path3094" d="m9 4l5.625 10 6.375 1-6-11h-6zl-6 11 3 5 2.8125-5 2.5625-4.562-2.375-6.438zm-3 16h12l3-5h-5.812-5.188l-4 5z" transform="translate(67.913 1071.2)" color="#000000"/>
   </g>
+ </g>
 </svg>
