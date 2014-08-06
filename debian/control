@@ -10,6 +10,6 @@ Homepage: https://github.com/moka-project/faba-mono-icons
 Package: faba-mono-icons
 Architecture: all
 Depends: ${misc:Depends}
- faba-icon-theme
+ faba-icon-theme moka-icon-theme
 Description: Faba Mono Icon Theme 
  Stylised tray icons for the Faba icon theme.
