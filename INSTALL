@@ -49,6 +49,7 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 		case $INPUT in
 		[Yy]* ) 
 			rm -Rf /usr/share/icons/Faba-Mono 2>/dev/null
+			rm -Rf /usr/share/icons/Faba-Mono-Dark 2>/dev/null
 			;;
 		[Nn]* )
 			;;
@@ -60,6 +61,8 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 	fi
 	cp -R ./Faba-Mono/ /usr/share/icons/
 	chmod -R 755 /usr/share/icons/Faba-Mono
+	cp -R ./Faba-Mono-Dark/ /usr/share/icons/
+	chmod -R 755 /usr/share/icons/Faba-Mono-Dark
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
@@ -69,6 +72,7 @@ elif [ "$UID" -ne "$ROOT_UID" ]; then
 		case $INPUT in
 		[Yy]* ) 
 			rm -Rf "$HOME/.local/share/icons/Faba-Mono" 2>/dev/null
+			rm -Rf "$HOME/.local/share/icons/Faba-Mono-Dark" 2>/dev/null
 			;;
 		[Nn]* )
 			;;		

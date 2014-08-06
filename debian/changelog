@@ -1,3 +1,9 @@
+faba-mono-icons (4.1) UNRELEASED; urgency=low
+
+  * Reluctantly added dark theme.
+
+ -- Sam Hewitt <hewittsamuel@gmail.com>  Wed, 06 Aug 2014 17:00:00 -0400
+
 faba-mono-icons (4.0) UNRELEASED; urgency=low
 
   * Creation of unified theme; to hell with other theme compatibility; migration to SVG

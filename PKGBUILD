@@ -1,6 +1,6 @@
 pkgname=faba-mono-icons-git
 _pkgname=faba-mono-icons
-pkgver=4.0
+pkgver=4.1
 pkgrel=0
 pkgdesc="The monochromatic panel icon sets for Faba."
 arch=('any')
@@ -23,8 +23,11 @@ package() {
 
   # create theme dirs
   install -d -m 755 "$pkgdir"/usr/share/icons/Faba-Mono/
+  install -d -m 755 "$pkgdir"/usr/share/icons/Faba-Mono-Dark/
 
   # install theme
   cd $srcdir/faba-mono-icons/Faba-Mono
   cp -r . "$pkgdir"/usr/share/icons/Faba-Mono/
+  cd $srcdir/faba-mono-icons/Faba-Mono-Dark
+  cp -r . "$pkgdir"/usr/share/icons/Faba-Mono-Dark/
 }
