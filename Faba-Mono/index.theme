@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Faba-Mono
-Comment=The monochrome panel icons from Moka.
+Comment=The full set of Faba monochrome panel icons.
 Inherits=Moka,Faba,gnome
 
 # Directory list
