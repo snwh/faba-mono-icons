@@ -1,6 +1,6 @@
 # Spec file for package faba-mono-icons
 #
-# Copyright (c) 2014 Sam Hewitt <hewittsamuel@gmail.com>
+# Copyright (c) 2016 Sam Hewitt <sam@snwh.org>
 #
 # All modifications and additions to the file contributed by third parties
 # remain the property of their copyright owners, unless otherwise agreed
@@ -14,15 +14,15 @@
 
 
 Name:		faba-mono-icons
-Version:	4.2
-Release:	2
+Version:	4.3
+Release:	0
 
 Summary:	Faba Icon Theme (Monochrome)
 Group:		System/GUI/Other
 License:    LGPL-3.0+ or CC-BY-SA-3.0
 
 Group:      System/GUI/GNOME
-Url:        http://www.mokaproject.com/faba-icon-theme
+Url:        http://www.snwh.org/moka
 Source0:	%{name}-%{version}.tar.gz
 
 Requires:	faba-icon-theme
