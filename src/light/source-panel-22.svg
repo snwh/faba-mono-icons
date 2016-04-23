@@ -334,10 +334,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="343.45562"
-     inkscape:cy="404.23537"
+     inkscape:cx="602.12642"
+     inkscape:cy="102.07751"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1023"
@@ -395,8 +395,8 @@
          id="rect14081-9"
          width="22"
          height="22"
-         x="588"
-         y="477.99838" />
+         x="589"
+         y="476.99838" />
     </g>
     <text
        sodipodi:linespacing="125%"
@@ -614,7 +614,7 @@
     <g
        id="g9119"
        inkscape:label="caffeine-cup-full"
-       transform="translate(0,-16)">
+       transform="translate(0.99999792,-16.999934)">
       <path
          inkscape:connector-curvature="0"
          id="path4274-6"
