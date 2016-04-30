@@ -7,8 +7,6 @@ EXTRA_DIST = \
 
 xsessiondir = $(datadir)/xsessions
 
-themedir = $(datadir)/icons
-
 install-data-hook:
 	$(MKDIR_P) -m 00755 $(DESTDIR)$(datadir)/icons && \
 	cp -Rv "$(top_srcdir)/Faba-Mono" "$(DESTDIR)$(datadir)/icons/." && \
