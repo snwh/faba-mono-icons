@@ -7,13 +7,11 @@ EXTRA_DIST = \
 
 xsessiondir = $(datadir)/xsessions
 
-themedir = $(datadir)/icons
-
 install-data-hook:
-	$(MKDIR_P) $(DESTDIR)/usr/share/icons
-	cp -R Faba-Mono $(DESTDIR)/usr/share/icons/.
-	cp -R Faba-Mono-Dark $(DESTDIR)/usr/share/icons/.
+	$(MKDIR_P) -m 00755 $(DESTDIR)$(datadir)/icons && \
+	cp -Rv "$(top_srcdir)/Faba-Mono" "$(DESTDIR)$(datadir)/icons/." && \
+	cp -Rv "$(top_srcdir)/Faba-Mono-Dark" "$(DESTDIR)$(datadir)/icons/."
 
 uninstall-hook:
-	test -e $(DESTDIR)/usr/share/icons/Faba-Mono && rm -rfv $(DESTDIR)/usr/share/icons/Faba-Mono
-	test -e $(DESTDIR)/usr/share/icons/Faba-Mono-Dark && rm -rfv $(DESTDIR)/usr/share/icons/Faba-Mono-Dark
+	(test -e $(DESTDIR)$(datadir)/icons/Faba-Mono && chmod a+rw -R $(DESTDIR)$(datadir)/icons/Faba-Mono/ && rm -rf $(DESTDIR)$(datadir)/icons/Faba-Mono); \
+	(test -e $(DESTDIR)$(datadir)/icons/Faba-Mono-Dark && chmod a+rw -R $(DESTDIR)$(datadir)/icons/Faba-Mono-Dark/ && rm -rf $(DESTDIR)$(datadir)/icons/Faba-Mono-Dark);
